@@ -6,7 +6,7 @@
 ##############################################
 
 #install
-git clone https://
+git clone https://github.com/Hydra7/PlanetworkScanner
 cd PntScan
 python PntScan.py
 
